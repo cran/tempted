@@ -1,6 +1,6 @@
-20857156462c038a68d81f12b7e0f55f *DESCRIPTION
-65597d2cd001ddbb739fd84b5be189ff *NAMESPACE
-36aaffb4aee42c967178db7e38f19eed *R/TEMPTED.R
+6278c5dce054de9fc1d70c2727b63d92 *DESCRIPTION
+25caf83cd1e6000bc12cfd9d40a33799 *NAMESPACE
+fe4cfd95cfedfae8f9c19e47c6aae0d6 *R/TEMPTED.R
 961a52189599124893ae6fd76d30aaf8 *R/TEMPTED_package.R
 0528c4efd230429d491c81feeff7afbf *data/count_table.rda
 e175304ff4abaf0c5898950221f80acd *data/meta_table.rda
@@ -40,6 +40,7 @@ ccee47efed7cc803ca9e4b032a360ee5 *man/plot_metafeature.Rd
 a77aa0e466507aa19449f3e1bf5c7428 *man/plot_time_loading.Rd
 de2afbb513140affc8fe2c665b199da3 *man/processed_table.Rd
 5e950e3a5a3de4ce1316887e25e351ac *man/ratio_feature.Rd
+601fc4766d47def046a4774cbb25155f *man/reconstruct.Rd
 bcdda07d07273b32b8062f2fe6830f26 *man/svd_centralize.Rd
 18f4789a0744e91e55863131c176dc8f *man/tdenoise.Rd
 bceb446dbab9ddc00a1a7affec406ec1 *man/tempted.Rd
